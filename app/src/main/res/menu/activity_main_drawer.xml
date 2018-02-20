@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_allusers"
+            android:title="All Users"
+            />
+        <item
+            android:id="@+id/nav_receivedProblem"
+            android:title="Received Problems" />
+        <item
+            android:id="@+id/nav_sentMessage"
+            android:title="Sent To Users" />
+        <item
+            android:id="@+id/chatAdmin"
+            android:title="Chat With Admin"/>
+
+    </group>
+
+
+
+</menu>

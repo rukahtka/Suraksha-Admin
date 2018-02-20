@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "834485126576",
+    "firebase_url": "https://suraksh-admin.firebaseio.com",
+    "project_id": "suraksh-admin",
+    "storage_bucket": "suraksh-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834485126576:android:666ac070573dd26a",
+        "android_client_info": {
+          "package_name": "com.example.first.suraksha_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834485126576-qi6pn1ohaqfnkvt5u7ru3j1e2bjnogaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjdtmWTzXTH-EciXPNyYk6gUlabWVSniU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
